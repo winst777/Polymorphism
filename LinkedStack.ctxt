@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=LinkedStack
+comment1.params=
+comment1.target=LinkedStack()
+comment2.params=element
+comment2.target=void\ push(java.lang.Object)
+comment2.text=\r\n\ Adds\ the\ specified\ element\ to\ the\ top\ of\ this\ stack.\r\n\ @param\ element\ element\ to\ be\ pushed\ on\ stack\r\n
+comment3.params=
+comment3.target=java.lang.Object\ pop()
+comment4.params=
+comment4.target=java.lang.Object\ peek()
+comment4.text=\r\n\ Returns\ a\ reference\ to\ the\ element\ at\ the\ top\ of\ this\ stack.\r\n\ The\ element\ is\ not\ removed\ from\ the\ stack.\r\n\ @return\ element\ on\ top\ of\ stack\r\n\ @throws\ EmptyCollectionException\ if\ the\ stack\ is\ empty\r\n
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment5.text=\r\n\ Returns\ true\ if\ this\ stack\ is\ empty\ and\ false\ otherwise.\r\n\ @return\ true\ if\ stack\ is\ empty\r\n
+comment6.params=
+comment6.target=int\ size()
+comment6.text=\r\n\ Returns\ the\ number\ of\ elements\ in\ this\ stack.\r\n\ @return\ number\ of\ elements\ in\ the\ stack\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ Returns\ a\ string\ representation\ of\ this\ stack.\r\n\ @return\ string\ representation\ of\ the\ stack\r\n
+numComments=8
